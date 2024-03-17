@@ -1,0 +1,15 @@
+{
+  "vccSettings" : {
+    "maxClaims": 4,
+    "authRetries": 1
+  },
+  "captchaSettings" : {
+    "service": "hcoptcha",
+    "apiKey": "f17d5955-1808-47ea-b962-178276ba2615"
+  },
+  "miscellaneousSettings" : {
+    "debug": false,
+    "proxyless": true,
+    "threads": 20  
+  }
+}
